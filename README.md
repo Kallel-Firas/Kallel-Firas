@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Firas
 
 🎓 Computer Science student @ Eötvös Loránd University, Budapest  
+📚 Previously studied at IPEST (Preparatory Institute for Scientific and Technical Studies), Tunisia
 💼 Former Software Engineering Intern @ ASTRE Engineering  
 🔐 Exploring secure software development and ethical hacking  
 
