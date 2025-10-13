@@ -1,5 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Firas
 
+🎓 Computer Science student @ Eötvös Loránd University, Budapest  
+💼 Former Software Engineering Intern @ ASTRE Engineering  
+
+### 🛠️ Tech Stack
+- **Languages:** Java, Python, C, JavaScript, PHP, Go
+- **Frameworks & Tools:** Swing, JUnit, RabbitMQ, MySQL, SQLite, Docker, Git
+- **Libraries:** Numpy, Matplotlib
+
+### 📫 Let's Connect
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kallel-firas/)
+- Email: kallelfiras23@gmail.com
+
+---
+
+💡 Open to collaboration on interesting projects and learning opportunities!
 <!--
 **Kallel-Firas/Kallel-Firas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
