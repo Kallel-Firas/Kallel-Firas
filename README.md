@@ -11,7 +11,7 @@
 - **Libraries:** Numpy, Matplotlib
 
 ### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kallel-firas/)
+- LinkedIn: [Firas Kallel](https://www.linkedin.com/in/kallel-firas/)
 - Email: kallelfiras23@gmail.com
 
 ---
