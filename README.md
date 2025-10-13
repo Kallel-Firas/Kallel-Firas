@@ -2,6 +2,7 @@
 
 🎓 Computer Science student @ Eötvös Loránd University, Budapest  
 💼 Former Software Engineering Intern @ ASTRE Engineering  
+🔐 Exploring secure software development and ethical hacking  
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, Python, C, JavaScript, PHP, Go
