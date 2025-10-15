@@ -16,7 +16,7 @@
 
 ---
 
-💡 Open to internship offers and collaboration on interesting projects and learning opportunities!
+### Open to internship offers, collaboration on interesting projects and learning opportunities!
 <!--
 **Kallel-Firas/Kallel-Firas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
